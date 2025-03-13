@@ -1,5 +1,5 @@
 #!/bin/bash
-LED_PATH="/sys/class/leds/input3::kbd_backlight/brightness"  # Change if needed
+
 
 while true; do
     for i in {0..3}; do
