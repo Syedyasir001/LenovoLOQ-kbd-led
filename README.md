@@ -5,7 +5,7 @@
 --> It is completely safe to run.
 
 # Instructions:
-                                                     **ONLY SUPPORTS LINUX**
+                                           **ONLY SUPPORTS LINUX**
 1️⃣ Check If Your Keyboard Supports Brightness Control:
 --> Firstly you need to check the brightness levels supported by your keyboard. This can be done by turning on the LEDs manually using the shortcut. In my case, the lights turn on by using 
     Fn+Space.You can cycle to different brightness levels such as low and high or low, medium and high in some laptops.
