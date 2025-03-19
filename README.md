@@ -1,7 +1,7 @@
 # LenovoLOQ-kbd-led
 --> This helps you to add different effects to your Lenovo LOQ's standard white LED keyboard.
 --> If you have a different brand's laptop equipped with a standard white LED keyboard lights, you can still try running it.
---> This can be done on only in linux distros like arch, ubuntu, fedora etc.
+--> This can be done on linux distros like arch, ubuntu, fedora etc.
 --> It is completely safe to run.
 
 # Instructions:
